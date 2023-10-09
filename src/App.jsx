@@ -8,6 +8,6 @@ const App = () => {
       <Button variant="outlined">Button</Button>
     </div>
   )
-};
+}
 
 export default App;
